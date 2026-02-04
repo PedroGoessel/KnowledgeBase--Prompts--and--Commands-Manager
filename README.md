@@ -35,9 +35,9 @@ O projeto foi construído com a filosofia "No-Build", ou seja, não requer compi
 
 ## 📸 Screenshots
 
-<img width="1920" height="878" alt="image" src="https://github.com/user-attachments/assets/b9fa4bf9-9f43-4a87-b6e7-653f6bb3b001" />
-<img width="1920" height="878" alt="image" src="https://github.com/user-attachments/assets/a3ab92c4-9d9d-40fc-90a9-259877c7d459" />
-<img width="1920" height="878" alt="image" src="https://github.com/user-attachments/assets/17bfe436-98cd-4ffc-af6b-8ebec4759e51" />
+<img width="1920" height="1234" alt="image" src="https://github.com/user-attachments/assets/5280670e-8ebd-47de-9c35-87bb28c67465" />
+<img width="1920" height="1411" alt="image" src="https://github.com/user-attachments/assets/f34e7e71-0d37-4af7-b297-4148ea6d3e40" />
+<img width="1920" height="1172" alt="image" src="https://github.com/user-attachments/assets/5d0a079a-8c3f-4a06-a491-3f1c34d4f589" />
 
 ## 🤝 Contribuição
 
