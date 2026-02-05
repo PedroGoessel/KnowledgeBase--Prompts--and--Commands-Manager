@@ -2,7 +2,9 @@
 
 Uma **Single Page Application (SPA)** leve e autossuficiente para gerenciamento pessoal de conhecimento, prompts de IA e comandos de terminal. Desenvolvido para rodar inteiramente no navegador, sem necessidade de servidores, banco de dados externo ou instalação complexa.
 
-![Status do Projeto](https://img.shields.io/badge/Status-Funcional-success) ![Tecnologia](https://img.shields.io/badge/Tech-Vanilla_JS-yellow)
+![Status do Projeto](https://img.shields.io/badge/Status-Funcional-success) ![Tecnologia](https://img.shields.io/badge/Tech-Vanilla_JS-yellow) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Vanilla JS](https://img.shields.io/badge/Vanilla-JS-F7DF1E?logo=javascript&logoColor=black)
+![No-Build](https://img.shields.io/badge/Architecture-No--Build-orange)
 
 ## ✨ Funcionalidades
 
