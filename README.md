@@ -1,4 +1,4 @@
-# 🚀 Sistema Integrado: Knowledge Base, AI Prompts & Commands
+# 🚀 Sistema Integrado: Prompts, Procedimentos e Comandos.
 
 > Uma SPA "Corporate Zen" leve e autossuficiente para quem busca produtividade máxima com fricção zero.
 
