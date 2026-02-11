@@ -35,7 +35,7 @@ A nova versão traz refinamentos estéticos e funcionais significativos:
 
 ---
 
-## 🛠️ Ecossistema de Módulos
+## 🛠️ Ferramentas
 
 ### 1. 🚀 Gerenciador de Prompts
 Ideal para organizar modelos de interação com IAs ou templates de comunicação.
