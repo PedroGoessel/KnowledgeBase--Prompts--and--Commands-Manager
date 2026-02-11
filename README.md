@@ -4,7 +4,7 @@
 
   Uma Single Page Application (SPA ) ultra-leve que funde documentação técnica, automação de relatórios e gestão de ativos intelectuais em uma única interface fluida e offline-first.
 </p> <p align="center">
-  <a href="#-principais-módulos">Módulos</a> •
+  <a href="https://github.com/PedroGoessel/Prompts--KnowledgeBase--and--Commands--Manager/tree/main#-o-que-h%C3%A1-de-novo">O que há de novo?</a> •
   <a href="#-diferenciais-técnicos">Arquitetura</a> •
   <a href="#-personalização">UX/UI</a> •
   <a href="#-segurança--privacidade">Segurança</a> •
