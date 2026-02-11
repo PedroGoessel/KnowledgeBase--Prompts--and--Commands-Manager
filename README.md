@@ -14,8 +14,6 @@
   <a href="#-instalação-rápida">Quick Start</a>
 </p>
 
-# 🚀 Sistema Integrado: NOC, KBs & Prompts
-
 > Uma Single Page Application (SPA) profissional e ultra-leve para gestão de conhecimento, automação de rotinas de NOC e produtividade técnica.
 
 [![Status](https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge)](https://github.com/PedroGoessel/Prompts--KnowledgeBase--and--Commands--Manager)
