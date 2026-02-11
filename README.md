@@ -6,7 +6,7 @@
 </p> <p align="center">
   <a href="https://github.com/PedroGoessel/Prompts--KnowledgeBase--and--Commands--Manager/tree/main#-o-que-h%C3%A1-de-novo">O que há de novo?</a> •
   <a href="https://github.com/PedroGoessel/Prompts--KnowledgeBase--and--Commands--Manager/tree/main#%EF%B8%8F-ferramentas">Ferramentas</a> •
-  <a href="https://github.com/PedroGoessel/Prompts--KnowledgeBase--and--Commands--Manager/tree/main#-como-utilizar?">Como utilizar?</a> •
+  <a href="https://github.com/PedroGoessel/Prompts--KnowledgeBase--and--Commands--Manager/tree/main#-como-utilizar">Como utilizar?</a> •
   <a href="#-segurança--privacidade">Segurança</a> •
   <a href="#-instalação-rápida">Quick Start</a>
 </p>
