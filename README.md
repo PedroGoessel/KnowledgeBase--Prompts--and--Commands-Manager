@@ -88,27 +88,27 @@ O sistema é **totalmente estático** e não requer servidor ou banco de dados e
 
 ---
 
-## 📸 Visual da Ferramenta
+📸 Preview da Interface
 
 <details>
-<summary>📸 Clique para ver os screenshots da interface</summary>
-<br />
+<summary>🔍 Clique para expandir os registros visuais</summary>
+  
+
 <p align="center">
-  <img width="100%" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/5280670e-8ebd-47de-9c35-87bb28c67465" />
-  <img width="100%" alt="Editor Preview" src="https://github.com/user-attachments/assets/f34e7e71-0d37-4af7-b297-4148ea6d3e40" />
-  <img width="100%" alt="Commands Preview" src="https://github.com/user-attachments/assets/5d0a079a-8c3f-4a06-a491-3f1c34d4f589" />
+  <img width="100%" alt="Dashboard" src="https://github.com/user-attachments/assets/5280670e-8ebd-47de-9c35-87bb28c67465" />
+  <img width="100%" alt="Editor" src="https://github.com/user-attachments/assets/f34e7e71-0d37-4af7-b297-4148ea6d3e40" />
+  <img width="100%" alt="Commands" src="https://github.com/user-attachments/assets/5d0a079a-8c3f-4a06-a491-3f1c34d4f589" />
 </p>
 </details>
 
----
 
-## 🤝 Contribuição e Licença
 
-Sugestões de melhorias no CSS ou otimizações no core são muito bem-vindas. Sinta-se à vontade para abrir uma *Issue* ou enviar um *Pull Request*.
 
-Este projeto está sob a **Licença MIT**.
-
----
 <p align="center">
-  Desenvolvido com ❤️ para a comunidade técnica.
+<strong>Gostou do projeto?</strong> Considere dar uma ⭐️ no repositório!  
+
+  Desenvolvido por <a href="https://github.com/PedroGoessel">Pedro Goessel</a>.
+</p>
+
+
 </p>
